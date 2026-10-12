@@ -14,12 +14,6 @@
   <a href="https://github.com/emiryildirimm">
     <img src="https://img.shields.io/github/followers/emiryildirimm?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117" alt="GitHub followers" />
   </a>
-  <a href="https://twitter.com/emryldrm99">
-    <img src="https://img.shields.io/twitter/follow/emryldrm99?style=for-the-badge&logo=x&color=0D1117&labelColor=0D1117" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/emryldrm99">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:emir67118@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -80,7 +74,7 @@
 ---
 
 ### :book: Guestbook
-Leave a cool message for me or just say you passed by <a href="https://github.com/emiryildirimm/emiryildirimm/issues/new?template=guestbook-entry.md">here</a>! *(Note: Requires guestbook-entry.md in issue templates)*
+Leave a cool message for me or just say you passed by <a href="https://github.com/emiryildirimm/emiryildirimm/issues/new?template=guestbook-entry.md">here</a>!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
