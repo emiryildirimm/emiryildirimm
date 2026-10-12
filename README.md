@@ -1,78 +1,89 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<h1 align="center">Hi there, I'm Emir! 👋</h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Emir;Computer+Engineering+Student;Cyber+Security" alt="Computer Engineering Student, Cyber Security"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=5BCDEC&size=26&center=true&vCenter=true&width=550&lines=Computer+Engineer;AI+%26+Cyber+Security+Enthusiast;Python+%26+LangChain+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
+<p align="center">
+  I am a recent Computer Engineering graduate, currently focused on AI security, machine learning, and building automated tools. 
+</p>
 
-<p align="center">👨‍💻 All of my projects are available at https://github.com/emiryildirimm?tab=repositories </p>
- <p align="center">🌱 I’m currently learning python</p>
- 
-  <details>
-  <summary align="center">GitHub Stats</summary>
+<p align="center">
+  <a href="https://github.com/emiryildirimm">
+    <img src="https://img.shields.io/github/followers/emiryildirimm?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117" alt="GitHub followers" />
+  </a>
+  <a href="https://twitter.com/emryldrm99">
+    <img src="https://img.shields.io/twitter/follow/emryldrm99?style=for-the-badge&logo=x&color=0D1117&labelColor=0D1117" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/emryldrm99">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:emir67118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=emiryildirimm&row=2&column=4&no-frame=true&margin-w=7&margin-h=7" alt="emiryildirimm"</p>
- 
- </details>
-  
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emiryildirimm&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="emiryildirimm" /></p>
- 
- 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=emiryildirimm&label=Profile%20views&color=0e75b6&style=flat" alt="emiryildirimm" /></p>
+---
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryildirimm&layout=compact&hide_border=true&theme=tokyonight" alt="emiryildirimm" /></p>
-  
+### 👨‍💻 About Me
+- 🎓 **Recent Computer Engineering Graduate.**
+- 🛡️ Currently expanding my skills and knowledge in **AI Security** and **Cyber Security**.
+- 🤖 Actively developing AI-driven projects using **Python, LangChain, and OpenAI APIs**.
+- 🔭 Always looking for new opportunities to learn and tackle complex technical challenges.
+- 💬 Ask me about **Python, Backend Development, or AI integrations.**
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryildirimm&hide_border=true&theme=tokyonight" alt="emiryildirimm" /></p>
+### 🛠️ Tech Stack & Tools
 
-<h2>:bulb: Languages & Frameworks</h2>
-<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="C++" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="sql" alt="sql" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+**Languages & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-<h2>:hammer_and_wrench: Tools I use</h2>
-<code> <img title="npm" alt="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="pycharm" alt="pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-</br></br>
+**Tools & OS:**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
+---
 
-<h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/emiryildirimm">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/emiryildirimm?style=social&label=@emiryildirimm">
-</a>
-<a href="https://twitter.com/emryldrm99">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/emryldrm99?style=social&label=@emryldrm99">
-</a>
-<a href="https://www.instagram.com/emryldrm99">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@emryldrm99&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
-</a>
-<a href="mailto:emir67118@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=emir67118@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
-</br>
-
-
-
-<div width="50%">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=emiryildirimm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
-
-
-
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/emiryildirimm/emiryildirimm/issues/new?template=guestbook-entry.md">here</a>!</p>
+### 📊 GitHub Stats
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=emiryildirimm&row=1&column=6&no-frame=true&margin-w=7&margin-h=7&theme=tokyonight" alt="Trophies" />
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emiryildirimm&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="emiryildirimm's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryildirimm&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiryildirimm&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=emiryildirimm&bg_color=1a1b27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" width="48%" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emiryildirimm&label=Profile%20views&color=5BCDEC&style=flat" alt="Profile views" />
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+---
+
+### :book: Guestbook
+Leave a cool message for me or just say you passed by <a href="https://github.com/emiryildirimm/emiryildirimm/issues/new?template=guestbook-entry.md">here</a>! *(Note: Requires guestbook-entry.md in issue templates)*
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%235BCDEC&size=20&center=true&vCenter=true&width=300&lines=Thanks+for+stopping+by!" >
+  </a>
+</div>
